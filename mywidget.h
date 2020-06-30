@@ -3,6 +3,10 @@
 
 #include <QWidget>
 
+
+
+
+
 class myWidget : public QWidget
 {
     Q_OBJECT
